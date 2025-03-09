@@ -10,6 +10,6 @@ pillow>=8.0.0          # For icon processing if needed
 
         # Set icon if provided
         if icon_name:
-            self.setIcon(QIcon(f"{logo.svg")
+            self.setIcon(QIcon(f"{logo.svg"
             self.setIconSize(QSize(24, 24))
         
