@@ -1,0 +1,8 @@
+# Core dependencies
+PyQt5>=5.15.0
+requests>=2.25.0
+
+# Optional dependencies for enhanced functionality
+python-dotenv>=0.15.0  # For loading environment variables (GitHub tokens)
+gitpython>=3.1.0       # Alternative Git interface (optional)
+pillow>=8.0.0          # For icon processing if needed
