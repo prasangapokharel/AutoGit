@@ -243,7 +243,7 @@ class SidebarButton(QPushButton):
         
         # Set icon if provided
         if icon_name:
-            self.setIcon(QIcon(f"{logo2.svg}.svg"))
+            self.setIcon(QIcon(f"{logo2}.svg"))
             self.setIconSize(QSize(24, 24))
         
         # Style
