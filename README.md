@@ -36,5 +36,5 @@ AutoGit is a powerful GitHub automation tool that helps you monitor repositories
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/autogit.git
+git clone https://github.com/prastogit.git
 cd autogit
